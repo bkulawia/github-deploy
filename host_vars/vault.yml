@@ -1,0 +1,3 @@
+remote_host_password: !vault |
+          $ANSIBLE_VAULT;1.2;AES256
+       

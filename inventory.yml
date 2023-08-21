@@ -1,0 +1,7 @@
+webservers:
+  hosts:
+      server1:
+        ansible_connection: ssh
+        ansible_host: "10.10.2.33"
+        ansible_user: ansible
+        ansible_password: remote_host_password
